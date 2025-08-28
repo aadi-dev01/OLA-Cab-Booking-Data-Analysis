@@ -1,1 +1,2 @@
-# OLA-Cab-Booking-Data-Analysis
+# 🚖 OLA Data Analyst Project Power BI & SQL
+The OLA Data Analyst Project tracks ride numbers, consumer behaviour, and driver performance by analysing ride-booking data using SQL and Power BI.  It highlights top clients, revenue splits by payment type, and booking statuses.  Ride statistics are computed using SQL queries, and important data, such as ride volumes, vehicle performance, and sales, are visualised in the final Power BI dashboard.  Through the identification of trends and areas for improvement, the analysis aids in the optimisation of OLA's services.
